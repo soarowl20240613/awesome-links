@@ -1,5 +1,10 @@
 # awesome-links
 
+## cheatsheet
+
+- [awesome-cheatsheets](https://github.com/jwasham/coding-interview-university/tree/main/extras/cheat%20sheets)
+- [devhints](https://devhints.io/)
+
 ## nim
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim)
