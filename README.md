@@ -1,5 +1,9 @@
 # awesome-links
 
+## time
+
+- [time.is](https://time.is/)
+
 ## cheatsheet
 
 - [awesome-cheatsheets](https://github.com/jwasham/coding-interview-university/tree/main/extras/cheat%20sheets)
