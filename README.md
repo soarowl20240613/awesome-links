@@ -9,6 +9,14 @@
 - [awesome-cheatsheets](https://github.com/jwasham/coding-interview-university/tree/main/extras/cheat%20sheets)
 - [devhints](https://devhints.io/)
 
+## dev tools
+
+- [finddev.tools](https://finddev.tools/)
+
+## binary parser
+
+- [Awesome binary parsing](https://github.com/dloss/binary-parsing.git)
+
 ## nim
 
 ### docs
