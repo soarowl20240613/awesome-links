@@ -17,6 +17,11 @@
 
 - [Awesome binary parsing](https://github.com/dloss/binary-parsing.git)
 
+## go
+
+- [Calling C from Go](https://ericchiang.github.io/post/cgo/)
+- [cgo](https://pkg.go.dev/cmd/cgo)
+
 ## nim
 
 ### docs
@@ -31,3 +36,8 @@
 ### lib
 
 - [binarylang](https://github.com/sealmove/binarylang.git)
+
+## ts
+
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [MichiJS](https://github.com/michijs/michijs.git) Web Components with TSX
