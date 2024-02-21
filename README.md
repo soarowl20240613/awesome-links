@@ -17,6 +17,10 @@
 
 - [Awesome binary parsing](https://github.com/dloss/binary-parsing.git)
 
+## Delphi
+
+- [zelig](https://zelig.cn/)
+
 ## go
 
 - [Calling C from Go](https://ericchiang.github.io/post/cgo/)
