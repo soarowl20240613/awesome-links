@@ -17,6 +17,11 @@
 
 - [Awesome binary parsing](https://github.com/dloss/binary-parsing.git)
 
+## disassembler
+
+- [Capstone](https://github.com/aquynh/capstone)
+- [zydis](https://zydis.re/)
+
 ## Delphi
 
 - [zelig](https://zelig.cn/)
