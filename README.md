@@ -13,8 +13,14 @@
 
 - [finddev.tools](https://finddev.tools/)
 
+## version manager
+
+- [pkgx](https://pkgx.sh/)
+- [vfox](https://github.com/version-fox/vfox.git)
+
 ## binary parser
 
+- [Awesome list for binary](https://github.com/artpar/awesome-bytecode.git)
 - [Awesome binary parsing](https://github.com/dloss/binary-parsing.git)
 
 ## disassembler
