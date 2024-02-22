@@ -18,6 +18,18 @@
 - [pkgx](https://pkgx.sh/)
 - [vfox](https://github.com/version-fox/vfox.git)
 
+## binary editor
+
+- [imhex](https://imhex.werwolv.net/)
+- [010editor](https://www.sweetscape.com/010editor/)
+- [HxD](https://mh-nexus.de/en/hxd/)
+
+## debugger
+
+- [binary ninja](https://binary.ninja/)
+- [IDA](https://www.hex-rays.com/products/ida/index.shtml)
+- [ghidra](https://ghidra-sre.org/)
+
 ## binary parser
 
 - [Awesome list for binary](https://github.com/artpar/awesome-bytecode.git)
