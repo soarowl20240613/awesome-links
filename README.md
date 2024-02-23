@@ -44,6 +44,10 @@
 
 - [zelig](https://zelig.cn/)
 
+## elixir
+
+- [Binary pattern matching in Elixir with PNG parsing example](https://zohaib.me/binary-pattern-matching-in-elixir/)
+
 ## go
 
 - [Calling C from Go](https://ericchiang.github.io/post/cgo/)
