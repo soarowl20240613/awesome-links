@@ -47,7 +47,7 @@
 ## elixir
 
 - [Binary pattern matching in Elixir with PNG parsing example](https://zohaib.me/binary-pattern-matching-in-elixir/)
--[Elixir Pro — Mastering Binaries & Bit Data :)](https://medium.com/blackode/playing-with-elixir-binaries-strings-dd01a40039d5)
+- [Elixir Pro — Mastering Binaries & Bit Data :)](https://medium.com/blackode/playing-with-elixir-binaries-strings-dd01a40039d5)
 
 ## go
 
