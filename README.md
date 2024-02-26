@@ -73,6 +73,10 @@
 
 - [binarylang](https://github.com/sealmove/binarylang.git)
 
+## rust
+
+- [rinf](https://github.com/cunarist/rinf.git) Rust for native business logic, Flutter for flexible and beautiful GUI
+
 ## ts
 
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
