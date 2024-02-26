@@ -40,6 +40,10 @@
 - [Capstone](https://github.com/aquynh/capstone)
 - [zydis](https://zydis.re/)
 
+## C
+
+[cosmopolitan libc](https://justine.lol/cosmopolitan/index.html) your build-anywhere run-anywhere c library
+
 ## Delphi
 
 - [zelig](https://zelig.cn/)
