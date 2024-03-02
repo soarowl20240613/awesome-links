@@ -81,4 +81,5 @@
 ## ts
 
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [jsr.io](https://jsr.io/) The open-source package registry for modern JavaScript and TypeScript
 - [MichiJS](https://github.com/michijs/michijs.git) Web Components with TSX
