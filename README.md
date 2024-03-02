@@ -59,6 +59,10 @@
 - [Calling C from Go](https://ericchiang.github.io/post/cgo/)
 - [cgo](https://pkg.go.dev/cmd/cgo)
 
+## js
+
+- [w2ui](https://w2ui.com/) JavaScript UI Library for the Modern Web
+
 ## nim
 
 ### docs
