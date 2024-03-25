@@ -80,7 +80,13 @@
 
 ## rust
 
+- [dioxus](https://dioxuslabs.com/) Dioxus is a Rust library for building apps that run on desktop, web, mobile, and more.
+- [egui](https://github.com/emilk/egui) an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [Flutter Rust Bridge](https://cjycode.com/flutter_rust_bridge/) Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple.
+- [iced](https://iced.rs/) A cross-platform GUI library for Rust focused on simplicity and type-safety.
+- [leptos](https://leptos.dev/) A cutting-edge Rust framework for the modern web.
 - [rinf](https://github.com/cunarist/rinf.git) Rust for native business logic, Flutter for flexible and beautiful GUI
+- [slint](https://slint.dev/) Describe the UI in a language akin to HTML/CSS allowing a separation between the presentation layer and business logic.
 
 ## ts
 
