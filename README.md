@@ -52,6 +52,7 @@
 ## elixir
 
 - [Binary pattern matching in Elixir with PNG parsing example](https://zohaib.me/binary-pattern-matching-in-elixir/)
+- [Wrap your application in a BEAM Burrito!](https://github.com/burrito-elixir/burrito.git)
 - [Elixir Pro — Mastering Binaries & Bit Data :)](https://medium.com/blackode/playing-with-elixir-binaries-strings-dd01a40039d5)
 - [Elixir编程入门](https://github.com/straightdave/programming_elixir.git) Elixir的入门（语言层面）知识
 
