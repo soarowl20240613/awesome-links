@@ -56,6 +56,7 @@
 - [Elixir编程入门](https://github.com/straightdave/programming_elixir.git) Elixir的入门（语言层面）知识
 - [How To Use Zig for Elixir NIFs](https://blog.appsignal.com/2023/10/24/how-to-use-zig-for-elixir-nifs.html)
 - [Wrap your application in a BEAM Burrito!](https://github.com/burrito-elixir/burrito.git)
+- [zigler](https://github.com/E-xyza/zigler.git)
 
 ## go
 
