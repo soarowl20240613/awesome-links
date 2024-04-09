@@ -54,9 +54,17 @@
 - [Binary pattern matching in Elixir with PNG parsing example](https://zohaib.me/binary-pattern-matching-in-elixir/)
 - [Elixir Pro — Mastering Binaries & Bit Data :)](https://medium.com/blackode/playing-with-elixir-binaries-strings-dd01a40039d5)
 - [Elixir编程入门](https://github.com/straightdave/programming_elixir.git) Elixir的入门（语言层面）知识
+- [Getting Rusty with Elixir and NIFs](https://curiosum.com/blog/getting-rusty-with-elixir-nifs-rust)
 - [How To Use Zig for Elixir NIFs](https://blog.appsignal.com/2023/10/24/how-to-use-zig-for-elixir-nifs.html)
+- [rustler](https://github.com/rusterlium/rustler.git) Safe Rust bridge for creating Erlang NIF functions
 - [Wrap your application in a BEAM Burrito!](https://github.com/burrito-elixir/burrito.git)
+- [Wrap your NIF with Zig](https://rbino.com/posts/wrap-your-nif-with-zig/)
+- [Writing Rust NIFs for your Elixir code with the Rustler package](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
 - [zigler](https://github.com/E-xyza/zigler.git)
+
+## gleam
+
+- [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
 
 ## go
 
@@ -89,6 +97,7 @@
 - [Flutter Rust Bridge](https://cjycode.com/flutter_rust_bridge/) Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple.
 - [iced](https://iced.rs/) A cross-platform GUI library for Rust focused on simplicity and type-safety.
 - [leptos](https://leptos.dev/) A cutting-edge Rust framework for the modern web.
+- [Parsing bitstreams with Nom](https://blog.adamchalmers.com/nom-bits/)
 - [rinf](https://github.com/cunarist/rinf.git) Rust for native business logic, Flutter for flexible and beautiful GUI
 - [slint](https://slint.dev/) Describe the UI in a language akin to HTML/CSS allowing a separation between the presentation layer and business logic.
 
