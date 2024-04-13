@@ -5,6 +5,10 @@
 - [timeanddate](https://www.timeanddate.com/)
 - [time.is](https://time.is/)
 
+## bash
+
+- [How to Type Less and Work Faster in the Linux Terminal](https://www.cogispan.com/linux/how-to-type-less-and-work-faster-in-the-linux-terminal/)
+
 ## cheatsheet
 
 - [awesome-cheatsheets](https://github.com/jwasham/coding-interview-university/tree/main/extras/cheat%20sheets)
