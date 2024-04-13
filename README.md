@@ -7,6 +7,7 @@
 
 ## bash
 
+- [Awesome Bash](https://github.com/awesome-lists/awesome-bash.git)
 - [How to Type Less and Work Faster in the Linux Terminal](https://www.cogispan.com/linux/how-to-type-less-and-work-faster-in-the-linux-terminal/)
 
 ## cheatsheet
