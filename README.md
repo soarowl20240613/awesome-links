@@ -25,6 +25,7 @@
 
 - [awesome-cheatsheets](https://github.com/jwasham/coding-interview-university/tree/main/extras/cheat%20sheets)
 - [devhints](https://devhints.io/)
+- [git](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## debugger
 
