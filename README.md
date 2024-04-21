@@ -39,7 +39,7 @@
 
 ## image
 
-- [favicon.io](https://favicon.io/) The only favicon generator you need for your next project. Quickly generate your favicon from text, image, or choose from hundreds of emojis.
+- [favicon-generator](https://www.favicon-generator.org/) Generate your favicon.ico
 - [image editor] (https://image.h5ds.com/)
 
 ## version manager
