@@ -37,6 +37,10 @@
 
 - [finddev.tools](https://finddev.tools/)
 
+## fonts
+
+- [免费中文字体](https://github.com/zenozeng/Free-Chinese-Fonts)
+
 ## image
 
 - [favicon-generator](https://www.favicon-generator.org/) Generate your favicon.ico
