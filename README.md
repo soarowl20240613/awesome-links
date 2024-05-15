@@ -116,6 +116,8 @@
 - [leptos](https://leptos.dev/) A cutting-edge Rust framework for the modern web.
 - [Parsing bitstreams with Nom](https://blog.adamchalmers.com/nom-bits/)
 - [rinf](https://github.com/cunarist/rinf.git) Rust for native business logic, Flutter for flexible and beautiful GUI
+- [rsbuild](https://rsbuild.dev/) The Rspack Powered Build Tool
+- [rspress](https://rspress.dev/) Lightning Fast Static Site Generator
 - [slint](https://slint.dev/) Describe the UI in a language akin to HTML/CSS allowing a separation between the presentation layer and business logic.
 
 ## ts
