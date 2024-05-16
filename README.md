@@ -46,6 +46,11 @@
 - [favicon-generator](https://www.favicon-generator.org/) Generate your favicon.ico
 - [image editor] (https://image.h5ds.com/)
 
+## typst
+
+- [typst](https://typst.app/)
+- [typstyle](https://github.com/Enter-tainer/typstyle) Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
+
 ## version manager
 
 - [pkgx](https://pkgx.sh/)
