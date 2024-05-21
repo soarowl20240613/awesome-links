@@ -112,6 +112,11 @@
 
 - [binarylang](https://github.com/sealmove/binarylang.git)
 
+## python
+
+-[nicegui](https://nicegui.io/) Meet the NiceGUI. And let any browser be the frontend of your Python code.
+-[rio](https://rio.dev/) Combine Your Components Into Websites or Apps
+
 ## rust
 
 - [dioxus](https://dioxuslabs.com/) Dioxus is a Rust library for building apps that run on desktop, web, mobile, and more.
