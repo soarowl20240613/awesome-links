@@ -46,6 +46,11 @@
 - [favicon-generator](https://www.favicon-generator.org/) Generate your favicon.ico
 - [image editor] (https://image.h5ds.com/)
 
+
+## pandoc
+
+- [docx template](https://github.com/Achuan-2/pandoc_word_template)
+
 ## typst
 
 - [typst](https://typst.app/)
@@ -92,6 +97,10 @@
 
 - [Calling C from Go](https://ericchiang.github.io/post/cgo/)
 - [cgo](https://pkg.go.dev/cmd/cgo)
+- [go-docx](https://github.com/fumiama/go-docx) One of the most functional libraries to read and write .docx (a.k.a. Microsoft Word documents or ECMA-376 Office Open XML) files in Go.
+- [go-docx](https://github.com/lukasjarosch/go-docx) Replace placeholders inside docx documents with speed and confidence.
+- [gobfuscate](https://github.com/unixpickle/gobfuscate) With gobfuscate, you can compile a Go binary from obfuscated source code. This makes a lot of information difficult or impossible to decipher from the binary.
+- [unioffice](https://github.com/unidoc/unioffice) unioffice is a library for creation of Office Open XML documents (.docx, .xlsx and .pptx). Its goal is to be the most compatible and highest performance Go library for creation and editing of docx/xlsx/pptx files.
 
 ## js
 
