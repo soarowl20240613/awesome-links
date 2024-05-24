@@ -54,6 +54,10 @@
 
 - [docx template](https://github.com/Achuan-2/pandoc_word_template)
 
+## tools
+
+- [StrErr](https://www.strerr.com/) Various programming related tools
+
 ## typst
 
 - [typst](https://typst.app/)
