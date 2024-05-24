@@ -101,6 +101,7 @@
 - [go-docx](https://github.com/fumiama/go-docx) One of the most functional libraries to read and write .docx (a.k.a. Microsoft Word documents or ECMA-376 Office Open XML) files in Go.
 - [go-docx](https://github.com/lukasjarosch/go-docx) Replace placeholders inside docx documents with speed and confidence.
 - [go-eagle](https://go-eagle.org/) A microservice framework for Go
+- [gomarkdown](https://github.com/gomarkdown/markdown) markdown parser and HTML renderer for Go
 - [unioffice](https://github.com/unidoc/unioffice) unioffice is a library for creation of Office Open XML documents (.docx, .xlsx and .pptx). Its goal is to be the most compatible and highest performance Go library for creation and editing of docx/xlsx/pptx files.
 
 ## js
