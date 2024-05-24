@@ -27,6 +27,10 @@
 - [devhints](https://devhints.io/)
 - [git](https://education.github.com/git-cheat-sheet-education.pdf)
 
+## converter
+
+- [cloudconvert](https://cloudconvert.com/) CloudConvert is an online file converter. We support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. To get started, use the button below and select files to convert from your computer.
+
 ## debugger
 
 - [binary ninja](https://binary.ninja/)
