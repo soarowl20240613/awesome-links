@@ -116,6 +116,10 @@
 - [PDF-Guru](https://gitee.com/Kevin234/PDF-Guru) PDF Guru是一个通用型PDF文件处理工具，包含PDF合并、拆分、旋转、水印、加密、转换等20多项常用功能，完全开源，个人免费使用，界面简洁，简单易用。
 - [unioffice](https://github.com/unidoc/unioffice) unioffice is a library for creation of Office Open XML documents (.docx, .xlsx and .pptx). Its goal is to be the most compatible and highest performance Go library for creation and editing of docx/xlsx/pptx files.
 
+## java
+
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) #1 Locally hosted web application that allows you to perform various operations on PDF files
+
 ## js
 
 - [w2ui](https://w2ui.com/) JavaScript UI Library for the Modern Web
