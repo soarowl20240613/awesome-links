@@ -52,11 +52,21 @@
 ## image
 
 - [favicon-generator](https://www.favicon-generator.org/) Generate your favicon.ico
-- [image editor] (https://image.h5ds.com/)
+- [image editor](https://image.h5ds.com/)
+
+## markdown
+
+- [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown) Delightful Markdown stuff.
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) A curated list of awesome tools, demos and resources to go beyond LaTeX
+- [Markdown-Templates](https://github.com/jaantollander/Markdown-Templates) Templates for creating scientific, academic and technical documents using Markdown and Pandoc that support equations, code blocks, citations, Unicode symbols and vector graphics.
 
 ## pandoc
 
 - [docx template](https://github.com/Achuan-2/pandoc_word_template)
+
+## PDF
+
+- [freepdf](http://www.freepdf.net/)
 
 ## tools
 
