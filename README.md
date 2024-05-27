@@ -75,6 +75,7 @@
 
 ## typst
 
+- [Awesome Typst](https://github.com/qjcg/awesome-typst) Awesome Typst Links
 - [typst](https://typst.app/)
 - [typstyle](https://github.com/Enter-tainer/typstyle) Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 
