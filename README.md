@@ -105,6 +105,11 @@
 - [oblivion](https://github.com/bepass-org/oblivion)
 - [oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
 
+## wsl
+
+- [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL)
+- [极速初始化配置 Manjaro Linux with WSL2 的开发环境](https://www.cnblogs.com/RioTian/p/17984821)
+
 # programming language
 
 ## disassembler
