@@ -92,6 +92,7 @@
 
 - [Awesome Typst](https://github.com/qjcg/awesome-typst) Awesome Typst Links
 - [typst](https://typst.app/)
+- [Typst Examples Book](https://github.com/sitandr/typst-examples-book)
 - [typstyle](https://github.com/Enter-tainer/typstyle) Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 
 ## version manager
