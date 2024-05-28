@@ -5,6 +5,14 @@
 - [timeanddate](https://www.timeanddate.com/)
 - [time.is](https://time.is/)
 
+## android
+
+- [androeed](https://androeed.store/)
+- [apkdone](https://apkdone.com/)
+- [apkpure](https://apkpure.com/)
+- [aptoide](https://en.aptoide.com/) Find the best mobile games and apps in Aptoide, your favorite app store!
+- [playmods](https://www.playmods.app/) https://playmods.net/
+
 ## bash
 
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash.git)
@@ -71,7 +79,7 @@
 ## PDF => DOCX, DOC
 
 - [云库工具](https://libkit.cn/) 存在少量问题：目录下一页有一条移到上一页了，可强制分页到下一页，但目录不能自动更新；部分标题变窄，字符重叠了，可手工调整；每天只能免费使用两次
-- [wsp](https://pdf.wps.com/convert-pdf-to-word/) 除段落中文字分开不均匀，其余正常
+- [wps](https://pdf.wps.com/convert-pdf-to-word/) 除段落中文字分开不均匀，其余正常
 - [foxit](https://www.foxit.com/pdf-to-word/) 除部分页面的页眉下的横线缺失外，其余正常
 - [hipdf](https://www.hipdf.com/v2/pdf-to-word-new) 表格有问题；公式不正确；图片的序号显示有问题
 - [pdf2doc](https://pdf2doc.com/) 除目录不正常外，其余都正确
