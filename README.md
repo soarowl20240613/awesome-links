@@ -78,8 +78,12 @@
 
 ## PDF => DOCX, DOC
 
-- [云库工具](https://libkit.cn/) 存在少量问题：目录下一页有一条移到上一页了，可强制分页到下一页，但目录不能自动更新；部分标题变窄，字符重叠了，可手工调整；每天只能免费使用两次
+- *[to-word-file-converter](https://www.thetoolbus.ai/pdf/to-word-file-converter) 和下面的根据转换结果完全一样
+- *[云库工具](https://libkit.cn/) 存在少量问题：目录下一页有一条移到上一页了，可强制分页到下一页，但目录不能自动更新；部分标题变窄，字符重叠了，可手工调整；每天只能免费使用两次
 - [updf](https://updf.com/) 跟上面效果几乎一样，英文显示效果差一点；每天只能免费使用两次
+- *[Cisdem PDFMaster](https://www.cisdem.com/pdfmaster.html) 字体稍微变小了点（从12pt变到11pt）、公式不能正常显示
+- [plagiarismdetector](https://plagiarismdetector.net/pdf-to-word) 字体不对， 公式显示不正常
+- [smallseotools](https://smallseotools.com/pdf-to-word-converter/) 字体不对， 公式显示不正常
 - [wps](https://pdf.wps.com/convert-pdf-to-word/) 除段落中文字分开不均匀，其余正常
 - [foxit](https://www.foxit.com/pdf-to-word/) 除部分页面的页眉下的横线缺失外，其余正常
 - [hipdf](https://www.hipdf.com/v2/pdf-to-word-new) 表格有问题；公式不正确；图片的序号显示有问题
@@ -88,6 +92,7 @@
 - [docfly](https://www.docfly.com/convert-pdf-to-word) 除目录不正常外，其余都正确；只能处理3个文件
 - *[adobe](https://www.adobe.com/in/acrobat/online/pdf-to-word.html) 所有的黑体都变成了宋体；目录不能自动更新
 - *[ilovepdf](https://www.ilovepdf.com/) 所有的黑体都变成了宋体；目录不能自动更新
+- *[printfriendly](https://www.printfriendly.com/) 所有的黑体都变成了宋体
 - *[xodo](https://xodo.com/pdf-to-word-converter) 所有的黑体都变成了宋体
 - [smallpdf](https://smallpdf.com/) 所有的字体都变成了Noto Serif CJK JP；目录不能更新
 - [pdfcandy](https://pdfcandy.com/) 所有的黑体变成了宋体，并且显示有点问题
@@ -201,11 +206,13 @@
 - [hyperdiv](https://hyperdiv.io/) Open-source framework for rapidly building reactive web apps in Python, with built-in Shoelace components, Markdown, charts, tables, and more.
 - [justpy](https://justpy.io/) JustPy is an object-oriented, component based, high-level Python Web Framework that requires no front-end programming. With a few lines of only Python code, you can create interactive websites without any JavaScript programming. JustPy can also be used to create graphic user interfaces for Python programs.
 - [nicegui](https://nicegui.io/) Meet the NiceGUI. And let any browser be the frontend of your Python code.
+- [pdf2docx](https://github.com/ArtifexSoftware/pdf2docx) Not perfect, but it works.
 - [pyHtmlGui](https://github.com/dirk-makerhafen/pyHtmlGui) PyHtmlGui is a Python library for creating fast, easy to build, HTML/CSS/JS user interfaces with seamless interaction between Python and Javascript/HTML. It can be used to create web applications, but also fully functional desktop applications, similar to Electron.
 - [PyLaTeX](https://github.com/JelteF/PyLaTeX) PyLaTeX is a Python library for creating and compiling LaTeX files or snippets. The goal of this library is being an easy, but extensible interface between Python and LaTeX.
 - [pyWebIO](https://github.com/pywebio/PyWebIO) PyWebIO provides a series of imperative functions to obtain user input and output on the browser, turning the browser into a "rich text terminal", and can be used to build simple web applications or browser-based GUI applications without the need to have knowledge of HTML and JS. PyWebIO can also be easily integrated into existing Web services. PyWebIO is very suitable for quickly building applications that do not require complex UI.
 - [reflex](https://reflex.dev/) Web apps in pure Python. Deploy with a single command.
 - [rio](https://rio.dev/) Combine Your Components Into Websites or Apps
+- [Spire.Pdf](https://www.e-iceblue.com/) Convert pdf to docx or doc, license file required, but quality is not good.
 - [webui](https://webui.me/) Use any web browser as GUI. With your preferred language in the backend.
 Portable, Lightweight, and Full OS API access.
 
