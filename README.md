@@ -79,17 +79,21 @@
 ## PDF => DOCX, DOC
 
 - [云库工具](https://libkit.cn/) 存在少量问题：目录下一页有一条移到上一页了，可强制分页到下一页，但目录不能自动更新；部分标题变窄，字符重叠了，可手工调整；每天只能免费使用两次
+- [updf](https://updf.com/) 跟上面效果几乎一样，英文显示效果差一点；每天只能免费使用两次
 - [wps](https://pdf.wps.com/convert-pdf-to-word/) 除段落中文字分开不均匀，其余正常
 - [foxit](https://www.foxit.com/pdf-to-word/) 除部分页面的页眉下的横线缺失外，其余正常
 - [hipdf](https://www.hipdf.com/v2/pdf-to-word-new) 表格有问题；公式不正确；图片的序号显示有问题
 - [pdf2doc](https://pdf2doc.com/) 除目录不正常外，其余都正确
+- [pdf2docx](https://pdf2docx.com/) 目录、公式显示不正常
 - [docfly](https://www.docfly.com/convert-pdf-to-word) 除目录不正常外，其余都正确；只能处理3个文件
-- [adobe](https://www.adobe.com/in/acrobat/online/pdf-to-word.html) 所有的黑体都变成了宋体；目录不能自动更新
-- [ilovepdf](https://www.ilovepdf.com/) 所有的黑体都变成了宋体；目录不能自动更新
+- *[adobe](https://www.adobe.com/in/acrobat/online/pdf-to-word.html) 所有的黑体都变成了宋体；目录不能自动更新
+- *[ilovepdf](https://www.ilovepdf.com/) 所有的黑体都变成了宋体；目录不能自动更新
+- *[xodo](https://xodo.com/pdf-to-word-converter) 所有的黑体都变成了宋体
 - [smallpdf](https://smallpdf.com/) 所有的字体都变成了Noto Serif CJK JP；目录不能更新
 - [pdfcandy](https://pdfcandy.com/) 所有的黑体变成了宋体，并且显示有点问题
 - [freeconvert](https://www.freeconvert.com/) 所有字体都变成了microsoft Jheng，部分地方显示有问题
 - [cleverpdf](https://www.cleverpdf.com/) 所有的黑体内容都消失了
+- [quark](https://www.quark.cn/) 所有的黑体内容都消失了
 
 ## tools
 
