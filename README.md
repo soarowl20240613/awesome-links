@@ -78,6 +78,7 @@
 
 ## PDF => DOCX, DOC
 
+- *[convertapi](https://www.convertapi.com/a/api/pdf-to-docx) 调用api时，采用默认参数即可，否则部分标题黑体丢失
 - *[to-word-file-converter](https://www.thetoolbus.ai/pdf/to-word-file-converter) 和下面的根据转换结果完全一样
 - *[云库工具](https://libkit.cn/) 存在少量问题：目录下一页有一条移到上一页了，可强制分页到下一页，但目录不能自动更新；部分标题变窄，字符重叠了，可手工调整；每天只能免费使用两次
 - [updf](https://updf.com/) 跟上面效果几乎一样，英文显示效果差一点；每天只能免费使用两次
