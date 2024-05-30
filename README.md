@@ -83,6 +83,7 @@
 - *[云库工具](https://libkit.cn/) 存在少量问题：目录下一页有一条移到上一页了，可强制分页到下一页，但目录不能自动更新；部分标题变窄，字符重叠了，可手工调整；每天只能免费使用两次
 - [updf](https://updf.com/) 跟上面效果几乎一样，英文显示效果差一点；每天只能免费使用两次
 - *[Cisdem PDFMaster](https://www.cisdem.com/pdfmaster.html) 字体稍微变小了点（从12pt变到11pt）、公式不能正常显示
+- [aconvert](https://www.aconvert.com/document/html-to-docx/) 字体变了，公式显示不正确
 - [plagiarismdetector](https://plagiarismdetector.net/pdf-to-word) 字体不对， 公式显示不正常
 - [smallseotools](https://smallseotools.com/pdf-to-word-converter/) 字体不对， 公式显示不正常
 - [wps](https://pdf.wps.com/convert-pdf-to-word/) 除段落中文字分开不均匀，其余正常
