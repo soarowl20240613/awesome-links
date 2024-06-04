@@ -200,6 +200,10 @@
 
 - [binarylang](https://github.com/sealmove/binarylang.git)
 
+## node
+
+- [manifest](https://manifest.build/) Manifest is a complete backend that fits into one file of simple code.
+
 ## python
 
 - [anvil](https://anvil.works/) Build seriously powerful web apps with all the flexibility of Python. No web development experience required.
