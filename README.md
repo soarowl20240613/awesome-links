@@ -204,6 +204,11 @@
 
 - [manifest](https://manifest.build/) Manifest is a complete backend that fits into one file of simple code.
 
+## openai
+
+- [api](https://openai.com/api/)
+- [中文doc](http://chatgpt.cndoc.wiki/doc)
+
 ## pay
 
 - [weixin](https://pay.weixin.qq.com/) 微信支付
