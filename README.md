@@ -207,7 +207,7 @@
 ## openai
 
 - [api](https://openai.com/api/)
-- [中文doc](http://chatgpt.cndoc.wiki/doc)
+- [cookbook](https://cookbook.openai.com/)
 
 ## pay
 
