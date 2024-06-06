@@ -11,7 +11,7 @@
 - [apkdone](https://apkdone.com/)
 - [apkpure](https://apkpure.com/)
 - [aptoide](https://en.aptoide.com/) Find the best mobile games and apps in Aptoide, your favorite app store!
-- [playmods](https://www.playmods.app/) https://playmods.net/
+- [playmods](https://www.playmods.app/) <https://playmods.net/>
 
 ## bash
 
@@ -208,9 +208,11 @@
 
 - [api](https://openai.com/api/)
 - [cookbook](https://cookbook.openai.com/)
+- [go-openai](https://github.com/sashabaranov/go-openai)
 
 ## pay
 
+- [dax-pay](https://github.com/dromara/dax-pay) 免费开源的支付网关，支持支付宝、微信、云闪付等通道，提供收单、退款、聚合支付、对账、分账等功能，通过HTTP方式进行调用，不与其他系统产生耦合关联，可以快速集成到各种系统中，提供可视化界面进行管理，便于实现统一的支付信息管理。
 - [weixin](https://pay.weixin.qq.com/) 微信支付
 - [wechatpay-node](https://github.com/klover2/wechatpay-node-v3-ts) 微信支付v3 支持在ts和js中使用
 
