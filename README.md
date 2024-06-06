@@ -175,6 +175,7 @@
 - [go-eagle](https://go-eagle.org/) A microservice framework for Go
 - [gomarkdown](https://github.com/gomarkdown/markdown) markdown parser and HTML renderer for Go
 - [PDF-Guru](https://gitee.com/Kevin234/PDF-Guru) PDF Guru是一个通用型PDF文件处理工具，包含PDF合并、拆分、旋转、水印、加密、转换等20多项常用功能，完全开源，个人免费使用，界面简洁，简单易用。
+- [simple-admin-core](https://gitee.com/hopefire/simple-admin-core) Simple Admin是一个基于go zero开发的的分布式微服务后端管理系统脚手架，提供后台管理系统的所有基本功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports
 - [unioffice](https://github.com/unidoc/unioffice) unioffice is a library for creation of Office Open XML documents (.docx, .xlsx and .pptx). Its goal is to be the most compatible and highest performance Go library for creation and editing of docx/xlsx/pptx files.
 
 ## java
