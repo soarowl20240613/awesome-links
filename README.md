@@ -107,6 +107,10 @@
 - *[云库工具](https://libkit.cn/)
 - [StrErr](https://www.strerr.com/) Various programming related tools
 
+## translate
+
+- [translate](http://translate.zvo.cn/) 两行js实现html全自动翻译，页面无需改动，无语言配置文件，无API Key，对SEO友好！
+
 ## typst
 
 - [Awesome Typst](https://github.com/qjcg/awesome-typst) Awesome Typst Links
