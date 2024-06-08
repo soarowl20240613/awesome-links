@@ -54,6 +54,10 @@
 
 - [docs](https://github.com/docker-library/docs)
 
+## download
+
+- [downloaddevtools](https://downloaddevtools.com/en)
+
 ## fonts
 
 - [免费中文字体](https://github.com/zenozeng/Free-Chinese-Fonts)
@@ -259,12 +263,21 @@ Portable, Lightweight, and Full OS API access.
 
 ## ts
 
+- [directus](https://github.com/directus/directus) The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [docx](https://docx.js.org) Easily generate and modify .docx files with JS/TS. Works for Node and on the Browser.
+- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) About
+Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [elysia](https://github.com/elysiajs/elysia) TypeScript framework supercharged by Bun with End-to-End Type Safety, unified type system, and outstanding developer experience
+- [farm](https://github.com/farm-fe/farm) Extremely fast Vite-compatible web build tool written in Rust
 - [jsr.io](https://jsr.io/) The open-source package registry for modern JavaScript and TypeScript
 - [markdowndb](https://markdowndb.com/) A rich API to your markdown files in seconds.
 - [MichiJS](https://github.com/michijs/michijs.git) Web Components with TSX
+- [mitosis](https://github.com/BuilderIO/mitosis) Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+- [primereact](https://github.com/primefaces/primereact) The Most Complete React UI Component Library
+- [primevue](https://github.com/primefaces/primevue) Next Generation Vue UI Component Library
+- [tabulator](https://github.com/olifolkerd/tabulator) Interactive Tables and Data Grids for JavaScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [wasp](https://github.com/wasp-lang/wasp) The fastest way to develop full-stack web apps with React & Node.js.
 
 # system
 
