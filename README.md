@@ -260,6 +260,7 @@ Portable, Lightweight, and Full OS API access.
 ## ts
 
 - [docx](https://docx.js.org) Easily generate and modify .docx files with JS/TS. Works for Node and on the Browser.
+- [elysia](https://github.com/elysiajs/elysia) TypeScript framework supercharged by Bun with End-to-End Type Safety, unified type system, and outstanding developer experience
 - [jsr.io](https://jsr.io/) The open-source package registry for modern JavaScript and TypeScript
 - [markdowndb](https://markdowndb.com/) A rich API to your markdown files in seconds.
 - [MichiJS](https://github.com/michijs/michijs.git) Web Components with TSX
