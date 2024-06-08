@@ -10,6 +10,7 @@
 - [androeed](https://androeed.store/)
 - [apkdone](https://apkdone.com/)
 - [apkpure](https://apkpure.com/)
+- [apkupdater](https://github.com/rumboalla/apkupdater) APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [aptoide](https://en.aptoide.com/) Find the best mobile games and apps in Aptoide, your favorite app store!
 - [playmods](https://www.playmods.app/) <https://playmods.net/>
 
@@ -48,6 +49,10 @@
 ## dev tools
 
 - [finddev.tools](https://finddev.tools/)
+
+## docker
+
+- [docs](https://github.com/docker-library/docs)
 
 ## fonts
 
