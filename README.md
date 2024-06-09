@@ -159,6 +159,7 @@
 
 ## Delphi
 
+- [Delphi.VCL](http://ct.kaida.tech/d/1041485-3049764-5f7d21?p=2ccc) password: 2ccc
 - [zelig](https://zelig.cn/)
 
 ## elixir
