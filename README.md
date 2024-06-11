@@ -215,6 +215,8 @@
 ### lib
 
 - [binarylang](https://github.com/sealmove/binarylang.git)
+- [happyx](https://github.com/HapticX/happyx) Macro-oriented asynchronous web-framework written in Nim with ♥
+- [norm](https://github.com/moigagoo/norm) A Nim ORM for SQLite and Postgres
 
 ## node
 
