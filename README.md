@@ -216,6 +216,7 @@
 
 - [binarylang](https://github.com/sealmove/binarylang.git)
 - [happyx](https://github.com/HapticX/happyx) Macro-oriented asynchronous web-framework written in Nim with ♥
+- [hello_musl](https://github.com/kaushalmodi/hello_musl) NimScript (config.nims) for building a static binary using Nim + musl + pcre + libressl/openssl
 - [norm](https://github.com/moigagoo/norm) A Nim ORM for SQLite and Postgres
 
 ## node
