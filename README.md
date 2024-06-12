@@ -12,6 +12,12 @@
 - [apkpure](https://apkpure.com/)
 - [apkupdater](https://github.com/rumboalla/apkupdater) APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [aptoide](https://en.aptoide.com/) Find the best mobile games and apps in Aptoide, your favorite app store!
+- [hiddify-next](https://github.com/hiddify/hiddify-next) Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [husi](https://github.com/xchacha20-poly1305/husi) 匪兕匪虎 率彼旷野
+- [MahsaNG](https://github.com/GFW-knocker/MahsaNG) a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN servers
+- [oblivion](https://github.com/bepass-org/oblivion) Unofficial warp client for android
+- [oblivion_cn](https://github.com/500750/oblivion_cn)
+- [oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [playmods](https://www.playmods.app/) <https://playmods.net/>
 
 ## bash
@@ -62,6 +68,10 @@
 
 - [免费中文字体](https://github.com/zenozeng/Free-Chinese-Fonts)
 
+## forex
+
+- [metatrader5](https://www.metatrader5.com/)
+
 ## groupdocs
 
 - [groupdocs](https://products.groupdocs.com/) View, Convert, Assemble, Watermark, Compare and Search data from Microsoft Office, Visio, Project, OpenOffice, AutoCAD, PDL, 3D & Images.
@@ -110,6 +120,10 @@
 - [freeconvert](https://www.freeconvert.com/) 所有字体都变成了microsoft Jheng，部分地方显示有问题
 - [cleverpdf](https://www.cleverpdf.com/) 所有的黑体内容都消失了
 - [quark](https://www.quark.cn/) 所有的黑体内容都消失了
+
+## proxy
+
+- [shadowshare](https://shadowshare.v2cross.com/)
 
 ## tools
 
