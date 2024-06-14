@@ -297,6 +297,7 @@ Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Ed
 - [markdowndb](https://markdowndb.com/) A rich API to your markdown files in seconds.
 - [MichiJS](https://github.com/michijs/michijs.git) Web Components with TSX
 - [mitosis](https://github.com/BuilderIO/mitosis) Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+- [playload](https://payloadcms.com/) The fastest way to build tomorrow's web.
 - [primereact](https://github.com/primefaces/primereact) The Most Complete React UI Component Library
 - [primevue](https://github.com/primefaces/primevue) Next Generation Vue UI Component Library
 - [tabulator](https://github.com/olifolkerd/tabulator) Interactive Tables and Data Grids for JavaScript
