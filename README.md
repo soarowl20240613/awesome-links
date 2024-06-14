@@ -162,6 +162,10 @@
 
 # programming language
 
+## ai
+
+- [nlux](https://docs.nlkit.com/nlux) The Powerful Conversational AI JavaScript Library
+
 ## disassembler
 
 - [Capstone](https://github.com/aquynh/capstone)
@@ -213,6 +217,7 @@
 
 ## js
 
+- [pdf.js](https://mozilla.github.io/pdf.js) A general-purpose, web standards-based platform for parsing and rendering PDFs.
 - [w2ui](https://w2ui.com/) JavaScript UI Library for the Modern Web
 
 ## nim
