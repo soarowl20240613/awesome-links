@@ -294,6 +294,7 @@ Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Ed
 - [elysia](https://github.com/elysiajs/elysia) TypeScript framework supercharged by Bun with End-to-End Type Safety, unified type system, and outstanding developer experience
 - [farm](https://github.com/farm-fe/farm) Extremely fast Vite-compatible web build tool written in Rust
 - [jsr.io](https://jsr.io/) The open-source package registry for modern JavaScript and TypeScript
+- [keystone](https://github.com/keystonejs/keystone) The most powerful headless CMS for Node.js — built with GraphQL and React
 - [markdowndb](https://markdowndb.com/) A rich API to your markdown files in seconds.
 - [MichiJS](https://github.com/michijs/michijs.git) Web Components with TSX
 - [mitosis](https://github.com/BuilderIO/mitosis) Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
